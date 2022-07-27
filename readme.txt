@@ -6,3 +6,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git tracks changes of files
 This is 0
+This is 1
